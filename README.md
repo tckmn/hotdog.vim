@@ -9,7 +9,9 @@ the greatest color scheme to grace the face of the earth, a flawless work
 of art.
 
 using hotdog.vim is as simple as eating a hotdog. just add
+
     colorscheme hotdog
+
 to your .vimrc and bask in your newfound glory.
 
 hotdog.vim is the future.
