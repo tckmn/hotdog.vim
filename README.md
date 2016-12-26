@@ -18,7 +18,7 @@ hotdog.vim is the future.
 
 screenshots:
 
-(todo)
+![](https://raw.githubusercontent.com/KeyboardFire/hotdog.vim/master/screenshots/readme.png)
 
 --------------------------------------------------------------------------
 
