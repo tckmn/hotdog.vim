@@ -22,6 +22,8 @@ screenshots:
 
 ![](https://raw.githubusercontent.com/KeyboardFire/hotdog.vim/master/screenshots/readme.png)
 
+![](https://raw.githubusercontent.com/KeyboardFire/hotdog.vim/master/screenshots/glavra.png)
+
 --------------------------------------------------------------------------
 
 user testimonials:
