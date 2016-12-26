@@ -29,8 +29,8 @@ user testimonials:
 > the subtle hints of red really add a sense of urgency to my editing,
 > motivating me to complete my current project
 
--- @artificialnull
+— [@artificialnull](https://github.com/artificialnull)
 
 > MY EYES
 
--- @poi830
+— [@poi830](https://github.com/poi830)
